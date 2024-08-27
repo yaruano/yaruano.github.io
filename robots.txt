@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://yaruanov.github.io/sitemap.xml
+Sitemap: https://yaruano.github.io/sitemap.xml
